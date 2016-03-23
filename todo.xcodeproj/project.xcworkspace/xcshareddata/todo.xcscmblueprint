@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BCA0ECDC8E03161D1B69F7E7BD8C056104F20BA5" : 0,
+    "592725A37D760F8396121A1AFB5C6D70C271C006" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "99759CE8-1672-4DA4-B117-850F3672647C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BCA0ECDC8E03161D1B69F7E7BD8C056104F20BA5" : "..\/..",
+    "592725A37D760F8396121A1AFB5C6D70C271C006" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ginzason\/todo_swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "592725A37D760F8396121A1AFB5C6D70C271C006"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ginzason\/todo_swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "592725A37D760F8396121A1AFB5C6D70C271C006"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ginzason\/Todo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BCA0ECDC8E03161D1B69F7E7BD8C056104F20BA5"
+    }
+  ]
+}
